@@ -1,0 +1,13 @@
+Here is my planning document for Activity #15.
+
+Goals
+1. Produce reproducible PDF report of Activity 14.
+
+Needs
+1. Raw data in `data/raw/`
+2. R packages: tidyverse, quarto, etc.
+
+Steps
+1. Clean data (code/data-clean.R)
+2. Write QMD with narrative and figures (doc/Activity14.qmd)
+3. Knit to PDF and add to outputs/
